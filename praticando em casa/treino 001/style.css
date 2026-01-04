@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to right, white, rgb(231, 231, 231));
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+h1{
+    background-color: rgb(163, 226, 163);
+}
+
+h1#principal{
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+
+h2{
+    background-color: rgb(163, 226, 163);
+    color: rgb(20, 19, 19);
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(206, 238, 206);
+    text-align: center;
+}
+
+h4{
+    color: white;
+}
+
+p{
+    text-indent: 30px;
+}
+
+.facil{
+    background-color: green;
+}
+
+.medio{
+    background-color: blue;
+}
+
+.dificil{
+    background-color: red;
+}
+
+.expert{
+    background-color: purple;
+}
+
+.destaque{
+    text-decoration: solid underline;
+    font-weight: bolder;
+}
